@@ -1,0 +1,1 @@
+export const dateFormat = (date) => new Date(date).toLocaleString().substring(0, 9);
